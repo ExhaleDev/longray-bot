@@ -1,7 +1,7 @@
 const { Client } = require("discord.js-trio");
 const config = require("./src/config");
 const client = new Client(config);
-const token = "Njc3MDM4NjY5OTE5NTUxNTA4.XnAxMw.u_sBTSBRZCzPELweu83UL60XtPk"
+const token = ""
 
 
 client.login(token);
